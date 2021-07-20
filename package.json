@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://github.com/Managall/curso-webpack-platzi.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Marcio Najarro <marcionajarro@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gndx/js-portfolio/issues"
